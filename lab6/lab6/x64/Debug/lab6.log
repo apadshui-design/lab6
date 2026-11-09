@@ -1,0 +1,3 @@
+﻿  FileName.c
+C:\Users\Админ\source\repos\lab6\lab6\FileName.c(37,15): warning C4101: F: неиспользованная локальная переменная
+  lab6.vcxproj -> C:\Users\Админ\source\repos\lab6\x64\Debug\lab6.exe
